@@ -14,7 +14,7 @@ Criação de um conversor de moeda utilizando a linguagem Java. As característi
 - Converter de Reais a Dólar
 - Converter de Reais a Euro
 - Converter de Reais a Libras Esterlinas
-- Converter de Reais a Peso argentino
+- Converter de Reais a Peso Argentino
 - Converter de Reais a Peso Chileno
   
 Lembrando que deve ser possível também converter de forma inversa. E como desafio extra, foi proposto adicionar outro tipo de conversor, como o de temperaturas.
